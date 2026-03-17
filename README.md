@@ -1,6 +1,6 @@
-# NuralNots  📚🧠
+# NeuralNotes  📚🧠
 
-**SocraticStudy** is an intelligent, AI-powered study companion designed to help students, researchers, and lifelong learners master their course material faster. By leveraging advanced LLMs with massive context windows, SocraticStudy can ingest full textbooks, YouTube videos, and lectures to generate study summaries, explain complex concepts, synthesize audio, create quizzes, and answer custom doubts.
+**NeuralNotes** is an intelligent, AI-powered study companion designed to help students, researchers, and lifelong learners master their course material faster. By leveraging advanced LLMs with massive context windows, SocraticStudy can ingest full textbooks, YouTube videos, and lectures to generate study summaries, explain complex concepts, synthesize audio, create quizzes, and answer custom doubts.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 🏗 Architecture & Tech Stack
 
-SocraticStudy is built as a decoupled Client/API architecture for maximum scalability and responsiveness.
+NeuralNotes is built as a decoupled Client/API architecture for maximum scalability and responsiveness.
 
 ### **Frontend**
 - **Framework:** React 19 + Vite
@@ -67,7 +67,7 @@ SocraticStudy is built as a decoupled Client/API architecture for maximum scalab
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/SocraticStudy.git
+   git clone https://github.com/Hrutuja-11/-NeuralNotes-ai-smart-notes-summarizer.git
    cd SocraticStudy
    ```
 
@@ -120,7 +120,7 @@ SocraticStudy is built as a decoupled Client/API architecture for maximum scalab
 ## 📂 File Structure
 
 ```text
-SocraticStudy/
+-NeuralNotes-ai-smart-notes-summarizer/
 ├── backend/                  # FastAPI Application
 │   ├── main.py               # Core API logic, routing, processing
 │   ├── requirements.txt      # Python dependencies
